@@ -1,0 +1,22 @@
+.blog-info {
+  flex-direction: column;
+  padding: 30px;
+}
+
+.author-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.author-image {
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.image {
+  width: 100%;
+  height: 600px;
+  border-radius: 8px;
+}
